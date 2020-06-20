@@ -10,7 +10,7 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/Coteh/create-react-app.git",
     "directory": "packages/cra-template"
   },
   "license": "MIT",
